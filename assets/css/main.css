@@ -2218,7 +2218,7 @@ input, select, textarea {
 			box-shadow: inset 0 0 0 2px #18bfef;
 			color: #18bfef !important;
 		}
-
+		/*maybe*/
 		input[type="submit"].primary,
 		input[type="reset"].primary,
 		input[type="button"].primary,
@@ -3233,8 +3233,7 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			/*background-color: #385859;*/
-			background-color: #212931;
+			background-color: #223759;
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
@@ -3260,7 +3259,9 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			/*background: #6fb3a8;*/
-			background: #568f86;
+			/*background: #568f86;*/
+			/*background: #324461;*/
+			background: #223759;
 			content: '';
 			display: block;
 			height: 100%;
